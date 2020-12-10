@@ -1,2 +1,7 @@
 package com.myspace.project1;
 
+rule "r1"
+when 
+eval(true)
+then
+end
